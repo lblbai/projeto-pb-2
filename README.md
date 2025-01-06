@@ -9,3 +9,4 @@ Algumas das variáveis presentes no dataset:
 # Visualização do projeto 📹
 
 # Imagem final 🖼️
+![print-projeto-pb-2](https://github.com/user-attachments/assets/0d6304b6-0e4d-4683-9c3b-08970257c888)
